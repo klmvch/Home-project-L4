@@ -21,17 +21,16 @@ With this project, we went through the process of creating a project, setting up
     "@babel/preset-env": "^7.20.2",
     "babel-jest": "^29.3.1",
     "jest": "^29.3.1"
-    }
-``` 
-   ```json
+  },
   "scripts": {
     "test": "jest"
   }
+}
 ```
 ## How to run the project?
 1. Open the terminal in your editor.
 2. Go to the source with the project on your work station ('cd' command).
 3. Run 'yarn test' command.
 > Expected result:
-Test Suites: 1 passed, 1 total
-Tests:       3 passed, 3 total
+> Test Suites: 1 passed, 1 total
+> Tests:       3 passed, 3 total
