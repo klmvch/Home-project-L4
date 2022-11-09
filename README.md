@@ -14,12 +14,14 @@ With this project, we went through the process of creating a project, setting up
    - 'README.md' file
    - 'yarn.lock' file.
 3. Open the 'package.json' file and check if it contains the specified parameters:
+   
    ```json
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
     "babel-jest": "^29.3.1",
     "jest": "^29.3.1"
+    }
 ``` 
    ```json
   "scripts": {
