@@ -11,6 +11,6 @@ test('should return correct rectangle area', () => {
 });
 
 test('should return correct rectangle info', () => {
-    const info = getRectangleInfo(80,400)
-    expect(info).toBe(console.log());  
+    const info = getRectangleInfo(20,20)
+    expect(info).toBe(console.log(`The perimeter of a rectangle is 80 and the area is 400`));
 })
